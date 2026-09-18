@@ -113,6 +113,11 @@ ControlPlane.ai/
 ```
 ## 4. Quick Start & Installation
 
+### 🎥 Video Demonstration
+
+**Project Demo Video ():** [https://youtu.be/HMJVhDnrts4?si=AUA0i0l5OnNxULaT](https://youtu.be/HMJVhDnrts4?si=AUA0i0l5OnNxULaT)
+
+
 ### Prerequisites
 * Python 3.9+
 * `pip` package manager
