@@ -115,7 +115,7 @@ ControlPlane.ai/
 
 ### 🎥 Video Demonstration
 
-**Project Demo Video ():** [https://youtu.be/HMJVhDnrts4?si=AUA0i0l5OnNxULaT](https://youtu.be/HMJVhDnrts4?si=AUA0i0l5OnNxULaT)
+**Project Demo Video (Link):** [https://youtu.be/HMJVhDnrts4?si=AUA0i0l5OnNxULaT](https://youtu.be/HMJVhDnrts4?si=AUA0i0l5OnNxULaT)
 
 
 ### Prerequisites
